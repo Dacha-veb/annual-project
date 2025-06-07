@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+    background-color: #fffccf;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+p, li {
+    font-family: "Kelly Slab", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+}
+
+.link-header {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;   
+    color: #ffffff;
+   font-size: 25px;
+    text-decoration: none;
+
+}
+
+header{
+    background-color:#866FD7;
+    height: 50px;
+    display: flex;
+    text-align: center;
+}
+
+.daria {
+    background-color: #4573D5;
+    display: flex;
+    text-align: center;
+}
+
+.obomhe {
+    width: 200px;
+    height: 300px;
+}
+
+a {
+    font-family: "Kelly Slab", sans-serif;
+    font-style: normal;
+    text-align: center;   
+    color: #b6b6b6;
+    text-decoration: none;
+    display: flex;
+}
+
+main {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+    text-align:center;
+    display: flex;
+    justify-content:center;
+}
+
+.obomhe {
+    height:800px; 
+    width:600px;
+}
+
+.let {
+    padding: 10px;
+}
